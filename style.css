@@ -1,0 +1,6 @@
+body {
+    background-color: #8b3f3f; background-size: 200%;
+}
+.main {
+    background-image: url("pic.jpeg");  text-align: center; text-shadow: 0px 1px 10px #ffffff; background-repeat:repeat-y; background-position: center;
+}
