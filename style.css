@@ -10,7 +10,7 @@ body {
     background-position: center;
     position:relative;
     animation: animate 5s;
-    -webkit-text-fill-color: #3f1d6f;
+    -webkit-text-fill-color: #eff3b7;
     letter-spacing: 2px;
     font-family: 'futara', 'Bodoni MT', 'Rockwell', 'Arial';
     text-shadow: 0px 1px 0px #ffffff;
